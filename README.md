@@ -14,22 +14,32 @@ Consider this a warning.
 3. Setup a virtual environment
     - Create virtual environment 
     
-        ```$ python -m venv venv```
+        ```
+        $ python -m venv venv
+        ```
 
     - Activate virtual environment
         - For Windows
  
-            ```$ .\venv\Scripts\activate.bat```
+            ```
+            $ .\venv\Scripts\activate.bat
+            ```
 
         - For Mac/Linux
             
-            ```$ source venv\bin\activate```
+            ```
+            $ source venv\bin\activate
+            ```
 
     - Install dependencies
 
-        ```$ pip install -r requirements.txt```
+        ```
+        $ pip install -r requirements.txt
+        ```
 
 
 4. Run Python script
 
-```$ python bot.py``` 
+```
+$ python bot.py
+``` 
