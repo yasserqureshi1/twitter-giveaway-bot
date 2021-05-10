@@ -3,10 +3,11 @@
 ## About this Project
 This project streams Tweets to find giveaways and enters them.
 
+Use this script at your own risk. I do not take responsibility for any issues or damages caused.
 
 
 ## Installation
-Consider this a warning.
+
 1. Ensure you have a [Twitter Developer account](https://developer.twitter.com).
 
 2. Place the *consumer key*, *consumer secret*, *access token* and *access secret token* into a `config.py` file.
